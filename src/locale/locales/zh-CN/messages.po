@@ -669,7 +669,7 @@ msgstr "选择你的主要信息流"
 
 #: src/screens/Signup/StepInfo/index.tsx:112
 msgid "Choose your password"
-msgstr "选择你的密码"
+msgstr "输入你的密码"
 
 #: src/view/screens/Settings/index.tsx:868
 msgid "Clear all legacy storage data"
@@ -4205,7 +4205,7 @@ msgstr "状态页"
 
 #: src/screens/Signup/index.tsx:142
 msgid "Step"
-msgstr "步"
+msgstr "Step"
 
 #: src/view/screens/Settings/index.tsx:292
 msgid "Storage cleared, you need to restart the app now."
@@ -5082,7 +5082,7 @@ msgstr "我们将使用这些信息来帮助定制你的体验。"
 
 #: src/screens/Signup/index.tsx:130
 msgid "We're so excited to have you join us!"
-msgstr "我们非常高兴你加入我们！"
+msgstr "我们非常期待你的加入！"
 
 #: src/view/screens/ProfileList.tsx:89
 msgid "We're sorry, but we were unable to resolve this list. If this persists, please contact the list creator, @{handleOrDid}."
@@ -5375,11 +5375,11 @@ msgstr "你的关注信息流为空！关注更多用户去看看他们发了什
 
 #: src/screens/Signup/StepHandle.tsx:72
 msgid "Your full handle will be"
-msgstr "你的完整用户识别符将修改为"
+msgstr "你的完整用户识别符将是"
 
 #: src/view/com/modals/ChangeHandle.tsx:271
 msgid "Your full handle will be <0>@{0}</0>"
-msgstr "你的完整用户识别符将修改为 <0>@{0}</0>"
+msgstr "你的完整用户识别符将是 <0>@{0}</0>"
 
 #: src/components/dialogs/MutedWords.tsx:220
 msgid "Your muted words"

@@ -344,7 +344,7 @@ msgstr "艺术作品或非色情的裸体。"
 
 #: src/screens/Signup/StepHandle.tsx:118
 msgid "At least 3 characters"
-msgstr ""
+msgstr "至少 3 个字符"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:246
 #: src/components/moderation/LabelsOnMeDialog.tsx:247
@@ -810,7 +810,7 @@ msgstr "为类别 {0} 配置内容过滤设置"
 
 #: src/components/moderation/LabelPreference.tsx:81
 msgid "Configure content filtering setting for category: {name}"
-msgstr ""
+msgstr "为类别 {name} 配置内容过滤设置"
 
 #: src/components/moderation/LabelPreference.tsx:244
 msgid "Configured in <0>moderation settings</0>."
@@ -912,7 +912,7 @@ msgstr "继续"
 
 #: src/components/AccountList.tsx:108
 msgid "Continue as {0} (currently signed in)"
-msgstr ""
+msgstr "以 {0} 身份继续（当前已登录）"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:151
 #: src/screens/Onboarding/StepInterests/index.tsx:249
@@ -1062,7 +1062,7 @@ msgstr "深色模式"
 
 #: src/screens/Signup/StepInfo/index.tsx:132
 msgid "Date of birth"
-msgstr ""
+msgstr "出生日期"
 
 #: src/view/screens/Settings/index.tsx:841
 msgid "Debug Moderation"
@@ -1189,7 +1189,7 @@ msgstr "不包含裸露内容"
 
 #: src/screens/Signup/StepHandle.tsx:104
 msgid "Doesn't begin or end with a hyphen"
-msgstr ""
+msgstr "不以连字符开头或结尾"
 
 #: src/view/com/modals/ChangeHandle.tsx:481
 msgid "Domain Value"
@@ -1401,7 +1401,7 @@ msgstr "在你的信息流中启用成人内容"
 #: src/components/dialogs/EmbedConsent.tsx:82
 #: src/components/dialogs/EmbedConsent.tsx:89
 msgid "Enable external media"
-msgstr ""
+msgstr "启用外部媒体"
 
 #: src/view/com/modals/EmbedConsent.tsx:97
 #~ msgid "Enable External Media"
@@ -1417,7 +1417,7 @@ msgstr "启用此设置以仅查看你关注的人之间的回复。"
 
 #: src/components/dialogs/EmbedConsent.tsx:94
 msgid "Enable this source only"
-msgstr ""
+msgstr "仅启用此来源"
 
 #: src/screens/Moderation/index.tsx:339
 msgid "Enabled"
@@ -1433,7 +1433,7 @@ msgstr "为此应用专用密码命名"
 
 #: src/screens/Login/SetNewPasswordForm.tsx:139
 msgid "Enter a password"
-msgstr ""
+msgstr "输入密码"
 
 #: src/components/dialogs/MutedWords.tsx:99
 #: src/components/dialogs/MutedWords.tsx:100
@@ -1707,7 +1707,7 @@ msgstr "关注所有"
 
 #: src/view/com/post-thread/PostThreadFollowBtn.tsx:144
 msgid "Follow Back"
-msgstr ""
+msgstr "回关"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:182
 msgid "Follow selected accounts and continue to the next step"
@@ -1796,11 +1796,11 @@ msgstr "忘记密码"
 
 #: src/screens/Login/LoginForm.tsx:201
 msgid "Forgot password?"
-msgstr ""
+msgstr "忘记密码？"
 
 #: src/screens/Login/LoginForm.tsx:212
 msgid "Forgot?"
-msgstr ""
+msgstr "忘记？"
 
 #: src/lib/moderation/useReportOptions.ts:52
 msgid "Frequently Posts Unwanted Content"
@@ -2384,7 +2384,7 @@ msgstr "登录未列出的账户"
 
 #: src/screens/Login/SetNewPasswordForm.tsx:116
 msgid "Looks like XXXXX-XXXXX"
-msgstr ""
+msgstr "看起来像 XXXXX-XXXXX"
 
 #: src/view/com/modals/LinkWarning.tsx:79
 msgid "Make sure this is where you intend to go!"
@@ -2765,7 +2765,7 @@ msgstr "不再关注 {0}"
 
 #: src/screens/Signup/StepHandle.tsx:114
 msgid "No longer than 253 characters"
-msgstr ""
+msgstr "不超过 253 个字符"
 
 #: src/view/com/notifications/Feed.tsx:109
 msgid "No notifications yet!"
@@ -2848,7 +2848,7 @@ msgstr "裸露"
 
 #: src/lib/moderation/useReportOptions.ts:71
 msgid "Nudity or adult content not labeled as such"
-msgstr ""
+msgstr "未标记的裸露或成人内容"
 
 #: src/lib/moderation/useReportOptions.ts:71
 #~ msgid "Nudity or pornography not labeled as such"
@@ -2856,7 +2856,7 @@ msgstr ""
 
 #: src/screens/Signup/index.tsx:142
 msgid "of"
-msgstr ""
+msgstr "of"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:11
 msgid "Off"
@@ -2897,7 +2897,7 @@ msgstr "只有 {0} 可以回复。"
 
 #: src/screens/Signup/StepHandle.tsx:97
 msgid "Only contains letters, numbers, and hyphens"
-msgstr ""
+msgstr "仅包含英文字母、数字和连字符"
 
 #: src/components/Lists.tsx:75
 msgid "Oops, something went wrong!"
@@ -3297,7 +3297,7 @@ msgstr "潜在误导性链接"
 
 #: src/components/forms/HostingProvider.tsx:45
 msgid "Press to change hosting provider"
-msgstr ""
+msgstr "更改托管提供商"
 
 #: src/components/Error.tsx:74
 #: src/components/Lists.tsx:80
@@ -3516,7 +3516,7 @@ msgstr "举报账户"
 
 #: src/components/ReportDialog/index.tsx:49
 msgid "Report dialog"
-msgstr ""
+msgstr "举报框"
 
 #: src/view/screens/ProfileFeed.tsx:352
 #: src/view/screens/ProfileFeed.tsx:354
@@ -3812,7 +3812,7 @@ msgstr "选择 {item}"
 
 #: src/screens/Login/ChooseAccountForm.tsx:61
 msgid "Select account"
-msgstr ""
+msgstr "选择账号"
 
 #: src/screens/Login/index.tsx:120
 msgid "Select from an existing account"
@@ -3865,7 +3865,7 @@ msgstr "选择你的应用语言，以显示应用中的默认文本。"
 
 #: src/screens/Signup/StepInfo/index.tsx:133
 msgid "Select your date of birth"
-msgstr ""
+msgstr "输入你的出生日期"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:200
 msgid "Select your interests from the options below"
@@ -4048,11 +4048,11 @@ msgstr "分享信息流"
 #: src/view/com/modals/LinkWarning.tsx:89
 #: src/view/com/modals/LinkWarning.tsx:95
 msgid "Share Link"
-msgstr ""
+msgstr "分享链接"
 
 #: src/view/com/modals/LinkWarning.tsx:92
 msgid "Shares the linked website"
-msgstr ""
+msgstr "分享链接的网站"
 
 #: src/components/moderation/ContentHider.tsx:115
 #: src/components/moderation/LabelPreference.tsx:136
@@ -4298,7 +4298,7 @@ msgstr "状态页"
 
 #: src/screens/Signup/index.tsx:142
 msgid "Step"
-msgstr ""
+msgstr "步"
 
 #: src/view/com/auth/create/StepHeader.tsx:22
 #~ msgid "Step {0} of {numSteps}"
@@ -5075,7 +5075,7 @@ msgstr "验证你的邮箱"
 
 #: src/view/screens/Settings/index.tsx:893
 msgid "Version {0}"
-msgstr ""
+msgstr "版本号 {0}"
 
 #: src/screens/Onboarding/index.tsx:42
 msgid "Video Games"
@@ -5395,7 +5395,7 @@ msgstr "如果你认为这些标记是错误的，你可以申诉这些标记。
 
 #: src/screens/Signup/StepInfo/Policies.tsx:79
 msgid "You must be 13 years of age or older to sign up."
-msgstr ""
+msgstr "你必须年满 13 岁才能注册。"
 
 #: src/screens/Onboarding/StepModeration/AdultContentEnabledPref.tsx:110
 msgid "You must be 18 years or older to enable adult content"

@@ -5379,7 +5379,7 @@ msgstr "你的完整用户识别符将是"
 
 #: src/view/com/modals/ChangeHandle.tsx:271
 msgid "Your full handle will be <0>@{0}</0>"
-msgstr "你的完整用户识别符将是 <0>@{0}</0>"
+msgstr "你的完整用户识别符将修改为 <0>@{0}</0>"
 
 #: src/components/dialogs/MutedWords.tsx:220
 msgid "Your muted words"

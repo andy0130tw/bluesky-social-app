@@ -2247,7 +2247,7 @@ msgstr "{0} 个 {1} 喜欢"
 
 #: src/components/LabelingServiceCard/index.tsx:72
 msgid "Liked by {count} {0}"
-msgstr "被 {count} {0} 喜欢"
+msgstr "{count} 个 {0} 喜欢"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:278
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:292
